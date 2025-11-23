@@ -20,6 +20,11 @@
                 <default>false</default>
                 <label>Global</label>
             </value>
+            <value>
+                <fullName>Misc</fullName>
+                <default>false</default>
+                <label>Misc</label>
+            </value>
         </valueSetDefinition>
     </valueSet>
 </CustomField>
