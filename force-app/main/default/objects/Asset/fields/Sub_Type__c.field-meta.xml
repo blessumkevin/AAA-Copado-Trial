@@ -50,6 +50,41 @@
                 <default>false</default>
                 <label>South American</label>
             </value>
+            <value>
+                <fullName>Misc 1</fullName>
+                <default>false</default>
+                <label>Misc 1</label>
+            </value>
+            <value>
+                <fullName>Misc 2</fullName>
+                <default>false</default>
+                <label>Misc 2</label>
+            </value>
+            <value>
+                <fullName>Misc 3</fullName>
+                <default>false</default>
+                <label>Misc 3</label>
+            </value>
+            <value>
+                <fullName>Domestic 1</fullName>
+                <default>false</default>
+                <label>Domestic 1</label>
+            </value>
+            <value>
+                <fullName>Domestic 2</fullName>
+                <default>false</default>
+                <label>Domestic 2</label>
+            </value>
+            <value>
+                <fullName>Global 1</fullName>
+                <default>false</default>
+                <label>Global 1</label>
+            </value>
+            <value>
+                <fullName>Global 2</fullName>
+                <default>false</default>
+                <label>Global 2</label>
+            </value>
         </valueSetDefinition>
         <valueSettings>
             <controllingFieldValue>Domestic</controllingFieldValue>
@@ -62,6 +97,14 @@
         <valueSettings>
             <controllingFieldValue>Domestic</controllingFieldValue>
             <valueName>US South</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Domestic</controllingFieldValue>
+            <valueName>Domestic 1</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Domestic</controllingFieldValue>
+            <valueName>Domestic 2</valueName>
         </valueSettings>
         <valueSettings>
             <controllingFieldValue>Global</controllingFieldValue>
@@ -82,6 +125,26 @@
         <valueSettings>
             <controllingFieldValue>Global</controllingFieldValue>
             <valueName>South American</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Global</controllingFieldValue>
+            <valueName>Global 1</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Global</controllingFieldValue>
+            <valueName>Global 2</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Misc</controllingFieldValue>
+            <valueName>Misc 1</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Misc</controllingFieldValue>
+            <valueName>Misc 2</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Misc</controllingFieldValue>
+            <valueName>Misc 3</valueName>
         </valueSettings>
     </valueSet>
 </CustomField>
