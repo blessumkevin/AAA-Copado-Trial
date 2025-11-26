@@ -4,6 +4,16 @@
     <custom>true</custom>
     <fieldPermissions>
         <editable>false</editable>
+        <field>Account.SLA_Tier__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Account.Support_Level__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>Asset.Sub_Type__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -12,6 +22,9 @@
         <field>Asset.Type__c</field>
         <readable>false</readable>
     </fieldPermissions>
+    <layoutAssignments>
+        <layout>Account-Formato de cuentas</layout>
+    </layoutAssignments>
     <layoutAssignments>
         <layout>Asset-Formato de activos</layout>
     </layoutAssignments>
