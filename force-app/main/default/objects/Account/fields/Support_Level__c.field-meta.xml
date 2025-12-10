@@ -20,6 +20,11 @@
                 <default>false</default>
                 <label>Premium</label>
             </value>
+            <value>
+                <fullName>Free</fullName>
+                <default>false</default>
+                <label>Free</label>
+            </value>
         </valueSetDefinition>
     </valueSet>
 </CustomField>
