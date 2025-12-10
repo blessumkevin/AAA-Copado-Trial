@@ -21,11 +21,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Support_Level__c</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
-                <field>SLA_Tier__c</field>
+                <field>Email__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
