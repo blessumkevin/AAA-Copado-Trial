@@ -29,6 +29,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Bicycle__c.Price__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Bicycle__c.Type__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -424,6 +429,10 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
+        <name>ManageApiNamedQueries</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
         <name>ManageAuthProviders</name>
     </userPermissions>
     <userPermissions>
@@ -809,6 +818,10 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>ViewAllUsers</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>ViewApiNamedQueries</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
