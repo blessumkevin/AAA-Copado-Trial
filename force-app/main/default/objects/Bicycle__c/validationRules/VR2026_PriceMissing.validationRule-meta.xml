@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>VR2026_PriceMissing</fullName>
+    <active>true</active>
+    <description>Price cannot be left blank</description>
+    <errorConditionFormula>isblank(Price__c)</errorConditionFormula>
+    <errorDisplayField>Price__c</errorDisplayField>
+    <errorMessage>Please enter a price, all products require a price</errorMessage>
+</ValidationRule>
